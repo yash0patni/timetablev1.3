@@ -32,6 +32,11 @@
     <string name="np">"Neha Purohit"</string>
     <string name="ag">"Anurag Golwalkar"</string>
     <string name="none">" ------ "</string>
+    <string name="ss">"Shruti Sharma"</string>
+    <string name="mk">"Manish Kumar"</string>
+    <string name="ap">"Aruna Patidar"</string>
+    <string name="rj">"Richa Jain"</string>
+
 
     # Time
     <string name="t8">"8 AM"</string>
