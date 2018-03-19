@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Time Table</string>
+
+    # Batches
+    <string name="all">"ALL"</string>
+    <string name="b1">"B1"</string>
+    <string name="b12">"B1,B2"</string>
+    <string name="b34">"B3,B4"</string>
+    <string name="b2">"B2"</string>
+    <string name="b3">"B3"</string>
+    <string name="b4">"B4"</string>
+
+    # Subjects
+    <string name="cd">"Compiler Design"</string>
+    <string name="se">"Software Engineering"</string>
+    <string name="itnm">"I.T.N.M"</string>
+    <string name="cgm">"C.G.M"</string>
+    <string name="mp">"Minor Project"</string>
+    <string name="wt">"Web Technology"</string>
+    <string name="sl">"Startup Lectures"</string>
+    <string name="ed">"Entreprenuership Development"</string>
+    <string name="lib">"Library"</string>
+    <string name="sprt">"Sports"</string>
+
+    # Faculties
+    <string name="js">"Jayesh Surana"</string>
+    <string name="rn">"Rupesh Nagendra"</string>
+    <string name="sb">"Sujit Badodiya"</string>
+    <string name="pm">"Priyanka Mam"</string>
+    <string name="am">"Anshulika Mam"</string>
+    <string name="ns">"Niharika Shrivastav"</string>
+    <string name="np">"Neha Purohit"</string>
+    <string name="ag">"Anurag Golwalkar"</string>
+    <string name="none">" ------ "</string>
+
+    # Time
+    <string name="t8">"8 AM"</string>
+    <string name="t9">"9 AM"</string>
+    <string name="t10">"10 AM"</string>
+    <string name="t12">"12 PM"</string>
+    <string name="t11">"11 AM"</string>
+    <string name="t1230">"12.30 PM"</string>
+    <string name="t130">"1.30 PM"</string>
+    <string name="t330">"3.30 PM"</string>
+    <string name="t230">"2.30 PM"</string>
+    <string name="t1">"1 PM"</string>
+    <string name="t2">"2 PM"</string>
+
+
+    # Subject Codes
+    <string name="cd1">"IT - 6004"</string>
+    <string name="se1">"IT - 6002"</string>
+    <string name="itnm1">"IT - 6001"</string>
+    <string name="cgm1">"IT - 6003"</string>
+    <string name="mp1">"IT - 6006"</string>
+    <string name="wt1">"IT - 6005"</string>
+    <string name="sl1">"IT - 6008"</string>
+    <string name="ed1">"IT - 6007"</string>
+
+
+</resources>
